@@ -61,7 +61,7 @@ Vagrant.configure("2") do |config|
 
 # 4 - Agora é só um comandinho e correr para o abraço:
 
-* Usei esse comando para iniciar uma máquina linux com sua imagem contenizada rodando dentro já exposta para um teste rápido.
+* Usei esse comando para iniciar uma máquina linux com minha imagem contenizada rodando dentro já exposta para um teste rápido.
 ~~~shell
 vagrant up --provision
 ~~~
